@@ -10,3 +10,5 @@ will be created once we compile "TestServlet.java". The "web.xml" document in WE
 and what URL's to map the servlet to. 
 
 After creating all of these files, we should run the server by double clicking on Tomcat10 application in the "bin" directory, and now we can deploy the servlet on the browser.
+
+You can check the print screens for more details.
